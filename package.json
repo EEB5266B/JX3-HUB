@@ -1,5 +1,5 @@
 {
-  "name": "core-tutorial",
+  "name": "jx3-hub",
   "version": "0.1.0",
   "scripts": {
     "dev": "next dev",
